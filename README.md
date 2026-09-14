@@ -1,6 +1,6 @@
 # Tools for LLM
 
-Lightweight web search, fetch, research, and extractive-answer toolkit for LLMs — no model code, no Ollama, just retrieval and ranking.
+Lightweight web search, fetch, research, and extractive-answer toolkit for LLMs — no model code, no api key, just retrieval and ranking.
 
 Tools for LLM gives an LLM (or any Python app) three primitives: **search** the web, **fetch** a clean copy of a page, and **research** a question end‑to‑end (search → fetch → chunk → rank → cite). An **answer** helper can even extract a plain-text answer without calling any model at all.
 
