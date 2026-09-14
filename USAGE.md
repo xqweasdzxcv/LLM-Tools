@@ -193,7 +193,7 @@ wt.answer("what changed in python 3.13", top_k=5, max_len=1500)
 ```
 
 ```output
-Answer:
+OUTPUT:
 
 Python 3.13 introduces a new interactive interpreter based on PyPy's,
 an experimental free-threaded build option, and a basic JIT compiler...
