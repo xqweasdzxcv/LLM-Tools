@@ -66,7 +66,7 @@ wt = webtool(allow_domains=[".jp", ".cn", ".kr", ".ru"])
 ## CLI
 
 ```bash
-python tools_for_llm.py "python 3.13 release notes" --research --freshness month
+python LLM_Tool.py "python 3.13 release notes" --research --freshness month
 ```
 
 ## Documentation
